@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="initialValue">0</string>
+    <string name="noGesture">No such gesture</string>
+    <string name="divideByZero">Divide by 0</string>
+    <string name="stop">stop</string>
+</resources>

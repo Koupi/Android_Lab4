@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MS_Lab4_Belarus</string>
+    <string name="show">Show info</string>
+    <string name="agregation">Agregation</string>
+    <string name="region_filter">Region filter</string>
+    <string name="groupByArea">Group by region</string>
+    <string name="district_filter">District filter</string>
+    <string name="sorting">Sort</string>
+    <string name="population">Population</string>
+    <string-array name="sort_param">
+        <item>District</item>
+        <item>Region</item>
+        <item>Population</item>
+    </string-array>
+    <string-array name="agreg_param">
+        <item>COUNT</item>
+        <item>MAX</item>
+        <item>SUM</item>
+    </string-array>
+</resources>
+
